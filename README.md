@@ -1,2 +1,2 @@
 # Battleship
-Battleship game to play in Pyhton terminal
+Battleship game to play in terminal
